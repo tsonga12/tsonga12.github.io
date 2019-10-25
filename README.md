@@ -52,8 +52,10 @@
 
 ![settings](Images/settings.png)
 
- 2. Scroll down until you see "GitHub Pages" section 
+ 2. Scroll down until "GitHub Pages" section, then click "choose theme"
+ ![choose theme](Images/chooseTheme.png)
 
+ 3. Choose one and click "Select theme", now the index.md(Resume) has been applied the selected theme.
 
 
 
