@@ -6,6 +6,7 @@
 -  A current resume using MarkDown syntax in the local machine
 -  A GitHub account, this can be done by simply signing up in this [Sign-up link](https://github.com/join).
 
+
 ## Hosting the resume on GitHub Pages
 ### Create a repository
   After creating an account, a repository is needed for storing the resume as well as the documentation (images, video, README.md file, etc. ) that come with it. It can be accomplished by doing the following steps:
@@ -59,13 +60,13 @@
 
  4. The file "-config.yml" will appeared in the repository. It's the file that needs to be modify in order to format the resume.
  For example, adding the "title: Resume of Tsonga12" will change the title of the resume to Resume of Tsonga12. All the syntax for modifying the
- file is contained in the Jekyll official site [YAML front matter parameters](https://jekyllrb.com/docs/front-matter/)
-
-
+ file is contained in the Jekyll official site [YAML front matter parameters](https://jekyllrb.com/docs/front-matter/).
 
 
 ## Resources
 
+
 ## Authors and Acknowledgments
+
 
 ## FAQs
