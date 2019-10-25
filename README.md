@@ -11,12 +11,15 @@
  1. After creating an account, a repository is needed for storing the resume as well as the documentation (images, video, README.md file, etc. ) that come with it. It can be accomplished by doing the following steps
     * Go to the main page -> click on the plus sign at the top right corner -> click on "New repository"
 
+
     ![New repository](Images/createRepo.png)
 
+
     * Next, write the repository name in form of "UserName.github.io" with UserName is your GitHub's username. Make sure username match with the username used for   creating the account, otherwise, creating the the repository cannot be done. After write down the name, click on "Create repository".
+    
 
     ![New repository](Images/RepoName.png)
-    
+
 
 
 
