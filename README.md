@@ -31,8 +31,10 @@
 
 ![New file](Images/saveREADME.png)
 
-
 ### Upload resume to the repository that just created
+  It's time to upload the resume to the repository with the name "index.md". The reason behind the name is when adding the Jekyll theme afterwards, the theme will be applied to the index.md file only. Follow the steps below to upload the resume to the repository.
+1. 
+
 
 ### Format the resume using Jekyll theme chosen from GitHub Pages settings
 
