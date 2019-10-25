@@ -46,7 +46,13 @@
 ![Save file](Images/saveREADME.png)
 
 ### Format the resume using Jekyll theme chosen from GitHub Pages settings
+  Now the resume it's up. It's time to format the resume using the Jekyll theme chosen from GitHub Pages settings. Here are the steps:
 
+  1. Go to the repository then choose Settings.
+
+![settings](Images/settings.png)
+
+ 2. Scroll down until you see "GitHub Pages" section 
 
 
 
