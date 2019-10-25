@@ -57,6 +57,11 @@
 
  3. Choose one and click "Select theme", now the index.md(Resume) has been applied the selected theme.
 
+ 4. The file "-config.yml" will appeared in the repository. It's the file that needs to be modify in order to format the resume.
+ For example, adding the "title: Resume of Tsonga12" will change the title of the resume to Resume of Tsonga12. All the syntax for modifying the
+ file is contained in the Jekyll official site [YAML front matter parameters](https://jekyllrb.com/docs/front-matter/)
+
+
 
 
 ## Resources
