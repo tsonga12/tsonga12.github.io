@@ -9,18 +9,24 @@
 ## Hosting the resume on GitHub Pages
 ### Create a repository
   After creating an account, a repository is needed for storing the resume as well as the documentation (images, video, README.md file, etc. ) that come with it. It can be accomplished by doing the following steps
+
     1. Go to the main page -> click on the plus sign at the top right corner -> click on "New repository"
 
 ![New repository](Images/createRepo.png)
+
+
     2. Next, write the repository name in form of "UserName.github.io" with UserName is your GitHub's username. Make sure username match with the username used for   creating the account, otherwise, creating the the repository cannot be done. After write down the name, click on "Create repository".
 
 ![New repository](Images/RepoName.png)
 
 ### Create a README file
   Creating the README file is important and it needs to be included right after you created the repository since the file acts as the front page of your repository (Everyone will look at your README file first before other things). README file contains the information that allows the visitors to have an overview of your repository such as what the repository is about, how to get started, etc. You can create a readme file by doing following steps
+
     1. Go to the repository and click README
 
 ![New file](Images/createREADME.png)
+
+
     2. Save the file
 
 ![New file](Images/saveREADME.png)
