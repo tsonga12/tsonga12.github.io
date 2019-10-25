@@ -12,7 +12,6 @@
     1. Go to the main page -> click on the plus sign at the top right corner -> click on "New repository"
 
 ![New repository](Images/createRepo.png)
-
     2. Next, write the repository name in form of "UserName.github.io" with UserName is your GitHub's username. Make sure username match with the username used for   creating the account, otherwise, creating the the repository cannot be done. After write down the name, click on "Create repository".
 
 ![New repository](Images/RepoName.png)
@@ -22,8 +21,7 @@
     1. Go to the repository and click README
 
 ![New file](Images/createREADME.png)
-
-    2. Save the file 
+    2. Save the file
 
 ![New file](Images/saveREADME.png)
 
