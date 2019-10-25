@@ -9,7 +9,8 @@
 ### Hosting the resume on GitHub Pages
 #### Create a repository
  1. After creating an account, a repository is needed for storing the resume as well as the documentation (images, video, README.md file, etc. ) that come with it. It can be accomplished by doing the following steps
-    * Go to the main page -> click on the plus sign at the top right corner -> click on "New repository" 
+    * Go to the main page -> click on the plus sign at the top right corner -> click on "New repository"
+    
 
 ### Resources
 
