@@ -4,9 +4,12 @@
 ### Prerequisites
  There are two things needed to be done prior to host the resume online using GitHub Pages:
 -  A current resume in the local machine
--  A GitHub account, this can be done by simply signing up in this [ Sign-up link](https://github.com/join).
+-  A GitHub account, this can be done by simply signing up in this [Sign-up link](https://github.com/join).
 
 ### Hosting the resume on GitHub Pages
+#### Create a repository
+ 1. After creating an account, a repository is needed for storing the resume as well as the documentation (images, video, README.md file, etc. ) that come with it. It can be accomplished by doing the following steps
+ ..1. Go to the main page -> click on the plus sign at the top right corner -> click on "New repository" 
 
 ### Resources
 
