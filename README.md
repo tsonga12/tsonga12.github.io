@@ -3,7 +3,7 @@
 
 ## Prerequisites
  There are two things needed to be done prior to host the resume online using GitHub Pages:
--  A current resume in the local machine
+-  A current resume using MarkDown syntax in the local machine
 -  A GitHub account, this can be done by simply signing up in this [Sign-up link](https://github.com/join).
 
 ## Hosting the resume on GitHub Pages
@@ -29,12 +29,21 @@
 
 2. Save the file
 
-![New file](Images/saveREADME.png)
+![Save file](Images/saveREADME.png)
 
 ### Upload resume to the repository that just created
   It's time to upload the resume to the repository with the name "index.md". The reason behind the name is when adding the Jekyll theme afterwards, the theme will be applied to the index.md file only. Follow the steps below to upload the resume to the repository.
-1. 
+1. Go to the repository then click "Create new file"
 
+![New file](Images/createNewFile.png)
+
+2. Name the file as index.md and paste your resume in the file.
+
+![File name](Images/FileName.png)
+
+3. Save the file.
+
+![Save file](Images/saveREADME.png)
 
 ### Format the resume using Jekyll theme chosen from GitHub Pages settings
 
