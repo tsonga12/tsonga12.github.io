@@ -97,9 +97,9 @@
 3. Can I use other platform that's similar to GitHub to host my resume?
    - Yes! My recommendation is GitLab which is quite similar to GitHub, here is the [GitLab's link](https://about.gitlab.com/blog/2016/04/07/gitlab-pages-setup/) of instruction for hosting the resume online using GitLab Pages
 4. what are the pros and cons about MarkDown that I should consider before using it?
-   |Pros|Cons|
-   |----|----|
-   | Easy to read  |  No standard format  |
-   | Support formatting content quickly|    Not a replacement for HTML |
-   | Syntax is clean, simple|   Lack of semantic meaning/extensibility     |
-   | Can run across platforms|         Too many flavors      |
+   |Pros                                |Cons                                   |
+   |------------------------------------|---------------------------------------|
+   | Easy to read                       | No standard format                    |
+   | Support formatting content quickly | Not a replacement for HTML            |
+   | Syntax is clean, simple            | Lack of semantic meaning/extensibility|
+   | Can run across platforms           | Too many flavors                      |
