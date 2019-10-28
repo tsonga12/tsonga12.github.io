@@ -78,7 +78,7 @@
 - Here's the [MarkDown Tutorial](https://www.markdowntutorial.co/).
 - Here's the file contains all of [Images](https://github.com/tsonga12/tsonga12.github.io/tree/master/Images) used in this tutorial.
 - Here's the full [Repository](https://github.com/tsonga12/tsonga12.github.io) that contains a sample resume written in Markdown as well as this README.md file.
-
+- Jekyll official site [YAML front matter parameters](https://jekyllrb.com/docs/front-matter/) contains the syntax for modifying the YAML front matter.
 ## Authors and Acknowledgments
 - My COMP3040's instructor Christina Penner who
   - Shared the MarkDown tutorial and resources stated above.
