@@ -1,11 +1,15 @@
 ## How to Host Your Resume on GitHub Pages
- The purpose of creating this instruction file is to help people who have limited experiences in hosting their resume online using a buit-in GitHub's feature - GitHub Pages and formatting them using Jekyll theme chosen from GitHub Pages settings. In order to do it, a provided instruction set of the process of making it will be shown step by step in the next sections. Again, this instruction is only suitable for people who don't have much experience/technical background in hosting/formatting resumes online using GitHub Pages and Jekyll theme, for others who want to do advanced formatting using Jekyll-supported theme such as forking an existing theme or creating your own theme in Jekyll please have a look at others advanced tutorials online to serve the desired goals.
+ The purpose of creating this instruction file is to help people who have limited experiences in hosting their resume (written in MarkDown) online using Atom and a buit-in GitHub's feature - GitHub Pages and formatting them using Jekyll theme chosen from GitHub Pages settings. In order to do it, a provided instruction set of the process of making it will be shown step by step in the next sections. Again, this instruction is only suitable for people who don't have much experience/technical background in hosting/formatting resumes online using GitHub Pages and Jekyll theme, for others who want to do advanced formatting using Jekyll-supported theme such as forking an existing theme or creating your own theme in Jekyll please have a look at others advanced tutorials online to serve the desired goals.
 
 ## Prerequisites
  There are two things needed to be done prior to host the resume online using GitHub Pages:
--  A current resume using MarkDown syntax in the local machine
+-  A current resume in the local machine
 -  A GitHub account, this can be done by simply signing up in this [Sign-up link](https://github.com/join).
+-  Atom (IDE that used to write the resume in MarkDown), this can be done by simply download from this [Atom download link](https://atom.io/).
+-  Finished [MarkDown Tutorial](https://www.markdowntutorial.co/) in order to be familiar with MarkDown syntax.
 
+## Transform the current resume into MarkDown version using Atom
+###
 
 ## Hosting the resume on GitHub Pages
 ### Create a repository
@@ -38,7 +42,7 @@
 
 ![New file](Images/createNewFile.png)
 
-2. Name the file as index.md and paste your resume in the file.
+2. Name the file as index.md and paste the resume in the file.
 
 ![File name](Images/FileName.png)
 
