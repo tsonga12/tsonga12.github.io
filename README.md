@@ -95,4 +95,11 @@
    - In the industry, we usually apply for jobs online and MarkDown is one of the most efficient way of doing so since the syntax of MarkDown is easy to learn (There's no need to have technical background to do so) compared to HTML and CSS where you really need a bit "programming". Also, GitHub lets its users to host one free static website so that users don't have to buy anything to host their website as usual.
 
 3. Can I use other platform that's similar to GitHub to host my resume?
-   - Yes! My recommendation is GitLab which is quite similar to GitHub, here is the [GitLab's link](https://about.gitlab.com/blog/2016/04/07/gitlab-pages-setup/) of instruction for hosting the resume online using GitLab Pages 
+   - Yes! My recommendation is GitLab which is quite similar to GitHub, here is the [GitLab's link](https://about.gitlab.com/blog/2016/04/07/gitlab-pages-setup/) of instruction for hosting the resume online using GitLab Pages
+4. what are the pros and cons about MarkDown that I should consider before using it?
+   |Pros|Cons|
+   |----|----|
+   | Easy to read  |  No standard format  |
+   | Support formatting content quickly|    Not a replacement for HTML |
+   | Syntax is clean, simple|   Lack of semantic meaning/extensibility     |
+   | Can run across platforms|         Too many flavors      |
