@@ -1,5 +1,5 @@
 # How to Host Your Resume on GitHub Pages
- The purpose of creating this instruction file is to help people who have limited experiences in hosting their resume (written in MarkDown) online using Atom and a buit-in GitHub's feature - GitHub Pages and formatting them using Jekyll theme chosen from GitHub Pages settings. In order to do it, a provided instruction set of the process of making it will be shown step by step in the next sections. Again, this instruction is only suitable for people who don't have much experience/technical background in hosting/formatting resumes online using GitHub Pages and Jekyll theme, for others who want to do advanced formatting using Jekyll-supported theme such as forking an existing theme or creating your own theme in Jekyll please have a look at others advanced tutorials online to serve the desired goals.
+ The purpose of creating this instruction file is to help people who have limited experience(very little or some experience) in hosting their resume (written in MarkDown) online using Atom, a buit-in GitHub's feature - GitHub Pages and formatting them using Jekyll theme chosen from GitHub Pages settings. In order to do it, a provided instruction set of the process of making it will be shown step by step in the next sections. Again, this instruction is only suitable for people who don't have much experience/technical background in hosting/formatting resumes online using GitHub Pages and Jekyll theme, for others who want to do advanced formatting using Jekyll-supported theme such as forking an existing theme or creating your own theme in Jekyll please have a look at others advanced tutorials online to serve the desired goals.
 
 ## Prerequisites
  There are two things needed to be done prior to host the resume online using GitHub Pages:
@@ -11,16 +11,16 @@
 ## Hosting the resume on GitHub Pages
 
 ### Transform the current resume into MarkDown version
-  In order to work with MarkDown, an text editor/IDE  is needed. Since Atom works well with MarkDown and it integrates with GitHub, it is chosen to be the text editor for this tutorial. For the sake of simplicity integrating with GitHub will not be covered. Here are the steps needed to accomplish the task.
+  In order to work with MarkDown, an text editor/IDE  is needed. Since Atom works well with MarkDown and it integrates with GitHub, it is chosen to be the text editor for this tutorial. For the sake of simplicity, integrating with GitHub will not be covered. Here are the steps needed to accomplish the task.
 
-1. Create a new file in Atom and name it as index.md
+1. Create a new file in Atom and name it as index.md.
 
-2. Paste the current resume to the file and start formatting the resume using MarkDown syntax. If the resume is not formatted with MarkDown then resume is posted in GitHub won't display as wanted since GitHub only understands the MarkDown syntax. 
+2. Paste the current resume to the file and start formatting the resume using MarkDown syntax. If the resume is not formatted with MarkDown then resume is posted in GitHub won't display as wanted since GitHub only understands the MarkDown syntax.
 
 ### Create a repository
   After having the resume in MarkDown, a repository is needed for storing the resume as well as the documentation (images, video, README.md file, etc. ) that come with it. It can be accomplished by doing the following steps:
 
-1. Go to the main page -> click on the plus sign at the top right corner -> click on "New repository"
+1. Go to the main page -> click on the plus sign at the top right corner -> click on "New repository".
 
 ![New repository](Images/createRepo.png)
 
@@ -33,17 +33,17 @@
   the file acts as the front page of your repository (Everyone will look at your README file first before other things)
   . README file contains the information that allows the visitors to have an overview of your repository such as what the repository is about, how to get started, etc. You can create a readme file by doing following steps:
 
-1. Go to the repository and click README
+1. Go to the repository and click README.
 
 ![New file](Images/createREADME.png)
 
-2. Save the file
+2. Save the file.
 
 ![Save file](Images/saveREADME.png)
 
 ### Upload resume to the repository that just created
   It's time to upload the resume to the repository with the name "index.md". The reason behind the name is when adding the Jekyll theme afterwards, the theme will be applied to the index.md file only. Follow the steps below to upload the resume to the repository.
-1. Go to the repository then click "Create new file"
+1. Go to the repository then click "Create new file".
 
 ![New file](Images/createNewFile.png)
 
@@ -62,7 +62,7 @@
 
 ![settings](Images/settings.png)
 
- 2. Scroll down until "GitHub Pages" section, then click "choose theme"
+ 2. Scroll down until "GitHub Pages" section, then click "choose theme".
  ![choose theme](Images/chooseTheme.png)
 
  3. Choose one and click "Select theme", now the index.md(Resume) has been applied the selected theme.
@@ -73,9 +73,18 @@
 
 
 ## Resources
-
+- Here’s an intro to [GitHub Pages](https://help.github.com/en/categories/workingwith-github-pages).
+- Here’s an intro to [GitHub Flavored Markdown](https://github.github.com/gfm/).
+- Here's the [MarkDown Tutorial](https://www.markdowntutorial.co/).
+- Here's the file contains [Images](Images/) used in this tutorial.
+- Here's the full [Repository](https://github.com/tsonga12/tsonga12.github.io) that contains a sample resume written in Markdown as well as this README.md file. 
 
 ## Authors and Acknowledgments
+- My COMP3040's instructor Christina Penner who
+  - Shared the MarkDown tutorial and resources stated above.
+  - Provided a Resume Workshop.
+  - Recommendation for the text editor
+
 
 
 ## FAQs
