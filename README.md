@@ -93,3 +93,6 @@
 
 2. Why should I create a resume using MarkDown and host it in GitHub Pages instead of static website written in plain HTML and CSS?
    - In the industry, we usually apply for jobs online and MarkDown is one of the most efficient way of doing so since the syntax of MarkDown is easy to learn (There's no need to have technical background to do so) compared to HTML and CSS where you really need a bit "programming". Also, GitHub lets its users to host one free static website so that users don't have to buy anything to host their website as usual.
+
+3. Can I use other platform that's similar to GitHub to host my resume?
+   - Yes! My recommendation is GitLab which is quite similar to GitHub, here is the [GitLab's link](https://about.gitlab.com/blog/2016/04/07/gitlab-pages-setup/) of instruction for hosting the resume online using GitLab Pages 
