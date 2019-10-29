@@ -65,7 +65,7 @@
 
  2. Scroll down until "GitHub Pages" section, then click "choose a theme".
 
-![choose theme](https://github.com/tsonga12/tsonga12.github.io/tree/master/Images/chooseTheme.png)
+![choose theme](Images/chooseTheme.png)
 
  3. Choose one and click "Select theme", now the index.md(Resume) has been applied to the selected theme.
 
