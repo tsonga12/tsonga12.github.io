@@ -90,7 +90,7 @@
 
 ## FAQs
 1. Can I use other text editors instead of Atom?
-   - Yes! You can use any text editor as long as they support MarkDown, but I recommend using text editors that is light- weight and easy to use such as Sublime Text or Visual Code Studio if you don't want to use Atom.
+   - Yes! You can use any text editor as long as they support MarkDown, but I recommend using text editors that is light- weight and easy to use such as [Sublime Text](https://www.sublimetext.com/) or [Visual Code Studio](https://code.visualstudio.com/) if you don't want to use Atom.
 
 2. Why should I create a resume using MarkDown and host it in GitHub Pages instead of static website written in plain HTML and CSS?
    - In the industry, we usually apply for jobs online and MarkDown is one of the most efficient way of doing so since the syntax of MarkDown is easy to learn (There's no need to have technical background to do so) compared to HTML and CSS where you really need a bit "programming". Also, GitHub lets its users to host one free static website so that users don't have to buy anything to host their website as usual.
