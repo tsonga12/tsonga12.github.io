@@ -1,4 +1,5 @@
 # How to Host Your Resume on GitHub Pages
+## Intended Audience
  The purpose of creating this instruction file is to help people who have limited experience(very little or some experience) in hosting their resume (written in MarkDown) online using Atom, a built-in GitHub's feature - GitHub Pages and formatting them using Jekyll theme chosen from GitHub Pages settings. In order to do it, a provided instruction set of the process of making it will be shown step by step in the next sections. Again, this instruction is only suitable for people who don't have much experience/technical background in hosting/formatting resumes online using GitHub Pages and Jekyll theme, for others who want to do advanced formatting using Jekyll-supported theme such as forking an existing theme or creating your own theme in Jekyll please have a look at others advanced tutorials online to serve the desired goals.
 
 ## Prerequisites
