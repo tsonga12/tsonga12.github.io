@@ -81,6 +81,7 @@
 - Jekyll official site [YAML front matter parameters](https://jekyllrb.com/docs/front-matter/) contains the syntax for modifying the YAML front matter.
 
 ## Authors and Acknowledgments
+- Duc Anh Nguyen - Who wrote this README.md.
 - My COMP3040's instructor Christina Penner who
   - Shared the MarkDown tutorial and resources stated above.
   - Provided a Resume Workshop.
