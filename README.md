@@ -62,7 +62,7 @@
 
 ![settings](Images/settings.png)
 
- 2. Scroll down until "GitHub Pages" section, then click "choose theme".
+ 2. Scroll down until "GitHub Pages" section, then click "choose a theme".
 
 ![choose theme](Images/chooseTheme.png)
 
