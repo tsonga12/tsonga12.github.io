@@ -6,7 +6,7 @@
 -  A current resume in the local machine
 -  A GitHub account, this can be done by simply signing up in this [Sign-up link](https://github.com/join).
 -  Atom (IDE that used to write the resume in MarkDown), this can be done by simply download from this [Atom download link](https://atom.io/).
--  Finished [MarkDown Tutorial](https://www.markdowntutorial.co/) in order to be familiar with MarkDown syntax.
+-  Finish [MarkDown Tutorial](https://www.markdowntutorial.co/) in order to be familiar with MarkDown syntax.
 
 ## Hosting the resume on GitHub Pages
 
