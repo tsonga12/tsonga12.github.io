@@ -23,7 +23,7 @@
 
 1. Go to the main page -> click on the plus sign at the top right corner -> click on "New repository".
 
-![New repository](Images/createRepo.png)
+![New repository](https://github.com/tsonga12/tsonga12.github.io/blob/master/Images/createRepo.png)
 
 2. Next, write the repository name in the form of "UserName.github.io" with UserName is your GitHub's username. Make sure username matches with the username used for creating the account, otherwise, creating the repository cannot be done. After writing down the name, click on "Create repository".
 
